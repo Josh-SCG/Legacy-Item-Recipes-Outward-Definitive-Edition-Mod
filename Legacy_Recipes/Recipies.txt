@@ -1,0 +1,215 @@
+Arcane Hood + Crystal Powder x3 = White Arcane Hood
+
+Arcane Robe + Crystal Powder x3 = White Arcane Robe
+
+Barrier Armor + Spirit Varnish x2 + Mana Stone = Manawall Armor
+
+Barrier Boots + Spirit Varnish + Mana Stone x2 = Manawall Boots
+
+Barrier Helm + Spirit Varnish + Mana Stone x2 = Manawall Helm
+
+Bird Egg + Salt x2 + Scaled Leather = Black Pearlbird Egg
+
+Black Pearlbird Mask + Blue Sand + Assassin Tongue + Ghost's Eye = Jewel Bird Mask
+
+Black Plate Armor + Palladium Scrap x2 + Blue Sand = Orichalcum Armor
+
+Black Plate Boots + Palladium Scrap + Blue Sand x2 = Orichalcum Boots
+
+Black Plate Helm + Palladium Scrap + Blue Sand x2 = Orichalcum Helmet
+
+Butcher’s Amethyst + Wood + Scaled Leather + Iron Scrap = Butcher's Cleaver
+
+Calygrey Mace + Hexa Stone x3 = Ancient Calygrey Mace
+
+Calygrey Staff + Hexa Stone x3 = Ancient Calygrey Staff
+
+Clansage Robe + Fire Stone x3 = Red Clansage Robe
+
+Cleaver Halberd + Palladium Scrap + Ammolite x2 = Sanguine Cleaver
+
+Copal Armor + Salt Water x3 = Green Copal Armor
+
+Copal Boots + Salt Water x3 = Green Copal Boots
+
+Copal Helm + Salt Water x3 = Green Copal Helmet
+
+Damascene Axe + Hackmanite x3 = Masterpiece Axe
+
+Damascene Bow + Hackmanite x3 = Masterpiece Bow
+
+Damascene Claymore + Hackmanite x3 = Masterpiece Claymore
+
+Damascene Greataxe + Hackmanite x3 = Masterpiece Greataxe
+
+Damascene Halberd + Hackmanite x3 = Masterpiece Halberd
+
+Damascene Hammer + Hackmanite x3 = Masterpiece Hammer
+
+Damascene Knuckles + Hackmanite x3 = Masterpiece Knuckles
+
+Damascene Mace + Hackmanite x3 = Masterpiece Mace
+
+Damascene Spear + Hackmanite x3 = Masterpiece Spear
+
+Damascene Sword + Hackmanite x3 = Masterpiece Sword
+
+Desert Boots + Palladium Scrap + Iron Scrap x2 = Master Desert Boots
+
+Elite Desert Tunic + Palladium Scrap x2 + Iron Scrap = Master Desert Tunic
+
+Elite Desert Veil + Palladium Scrap + Iron Scrap x2 = Master Desert Veil
+
+Fang Axe + Occult Remains x2 + Scaled Leather = Savage Axe
+
+Fang Club + Occult Remains x2 + Scaled Leather = Savage Club
+
+Fang Greataxe + Occult Remains x2 + Scaled Leather = Savage Greataxe
+
+Fang Greatclub + Occult Remains x2 + Scaled Leather = Savage Greatclub
+
+Fang Greatsword + Occult Remains x2 + Scaled Leather = Savage Greatsword
+
+Fang Halberd + Occult Remains x2 + Scaled Leather = Savage Halberd
+
+Fang Knuckles + Occult Remains x2 + Scaled Leather = Savage Fang Knuckles
+
+Fang Shield + Occult Remains x2 + Scaled Leather = Savage Shield
+
+Fang Sword + Occult Remains x2 + Scaled Leather = Savage Sword
+
+Fang Trident + Occult Remains x2 + Scaled Leather = Savage Trident
+
+Felling Greataxe + Gold Ingot x3 = Gold Greataxe
+
+Fishing Harpoon + Gold Ingot x3 = Gold Harpoon
+
+Fur Armor + Warm Potion x3 = Black Fur Armor
+
+Fur Boots + Warm Potion x3 = Black Fur Boots
+
+Fur Helm + Warm Potion x3 = Black Fur Helmet
+
+Hatchet + Gold Ingot x3 = Gold Hatchet
+
+Iron Knuckles + Gold Ingot x3 = Golden Iron Knuckles
+
+Junk Claymore + Gold Ingot x3 = Golden Junk Claymore
+
+Kazite Armor + Antidote x3 = Master Kazite Armor
+
+Kazite Boots + Antidote x3 = Master Kazite Boots
+
+Kazite Cat Mask + Antidote x2 + Ghost's Eye = Master Kazite Cat Mask
+
+Kazite Light Armor + Stealth Potion x3 = Shadow Kazite Light Armor
+
+Kazite Light Boots + Stealth Potion x3 = Shadow Kazite Light Boots
+
+Kazite Light Helmet + Stealth Potion x3 = Shadow Kazite Light Helmet
+
+Kazite Mask + Antidote x2 + Ghost's Eye = Master Kazite Mask
+
+Kazite Oni Mask + Antidote x2 + Ghost's Eye = Master Kazite Oni Mask
+
+Kintsugi Armor + Fire Stone x3 = White Kintsugi Armor
+
+Kintsugi Boots + Fire Stone x3 = White Kintsugi Boots
+
+Kintsugi Helm + Fire Stone x3 = White Kintsugi Helmet
+
+Light Kazite Shirt + Stealth Potion x3 = Shadow Light Kazite Shirt
+
+Machete + Gold Ingot x3 = Gold Machete
+
+Master's Staff + Hackmanite x3 = Ivory Master's Staff
+
+Militia Armor + Palladium Scrap x3 = Vigilante Armor
+
+Militia Axe + Palladium Scrap x3 = Vigilante Axe
+
+Militia Boots + Palladium Scrap x3 = Vigilante Boots
+
+Militia Bow + Palladium Scrap x3 = Vigilante Bow
+
+Militia Chakram + Palladium Scrap x3 = Vigilante Chakram
+
+Militia Claymore + Palladium Scrap x3 = Vigilante Claymore
+
+Militia Dagger + Palladium Scrap x3 = Vigilante Dagger
+
+Militia Greataxe + Palladium Scrap x3 = Vigilante Greataxe
+
+Militia Halberd + Palladium Scrap x3 = Vigilante Halberd
+
+Militia Hammer + Palladium Scrap x3 = Vigilante Hammer
+
+Militia Helm + Palladium Scrap x3 = Vigilante Helm
+
+Militia Knuckles + Palladium Scrap x3 = Vigilante Knuckles
+
+Militia Mace + Palladium Scrap x3 = Vigilante Mace
+
+Militia Pistol + Palladium Scrap x3 = Vigilante Pistol
+
+Militia Shield + Palladium Scrap x3 = Vigilante Shield
+
+Militia Spear + Palladium Scrap x3 = Vigilante Spear
+
+Militia Sword + Palladium Scrap x3 = Vigilante Sword
+
+Mining Pick + Gold Ingot x3 = Gold Mining Pick
+
+Mushroom Halberd + Leyline Water x2 + Linen Cloth x1 = Spore Halberd
+
+Mushroom Shield + Leyline Water x2 + Linen Cloth x1 = Spore Shield
+
+Obsidian Axe + Leyline Water x3 = Meteoric Axe
+
+Obsidian Bow + Leyline Water x3 = Meteoric Bow
+
+Obsidian Claymore + Leyline Water x3 = Meteoric Claymore
+
+Obsidian Greataxe + Leyline Water x3 = Meteoric Greataxe
+
+Obsidian Greatmace + Leyline Water x3 = Meteoric Hammer
+
+Obsidian Halberd + Leyline Water x3 = Meteoric Halberd
+
+Obsidian Knuckles + Leyline Water x3 = Meteoric Knuckles
+
+Obsidian Mace + Leyline Water x3 = Meteoric Mace
+
+Obsidian Pistol + Leyline Water x3 = Meteoric Pistol
+
+Obsidian Spear + Leyline Water x3 = Meteoric Spear
+
+Obsidian Sword + Leyline Water x3 = Meteoric Sword
+
+Pearlbird Mask + Thick Oil x3 = Black Pearlbird Mask
+
+Pitchfork + Gold Ingot x3 = Gold Pitchfork
+
+Plank Shield + Gold Ingot x3 = Golden Shield
+
+Prayer Claymore + Hide x2 + Occult Remains x1 = Sinner Claymore
+
+Primitive Club + Gold Ingot x3 = Gold Club
+
+Quarterstaff + Gold Ingot x3 = Gold Quarterstaff
+
+Simple Bow + Gold Ingot x3 = Gold Bow
+
+Steel Sabre + Sapphire x2 + Ruby x1 = Cerulean Sabre
+
+Troglodyte Pole Mace + Sapphire x3 = Withering Pole Mace
+
+Troglodyte Staff + Hackmanite x3 = Crystal Staff
+
+Troglodyte Trident + Ruby x3 = Withering Trident
+
+Wide Black Hat + Crystal Powder x3 = White Wide Hat
+
+Wide Blue Hat + Crystal Powder x3 = Red Wide Hat
+
+Worn Guisarme + Gold Ingot x3 = Gold Guisarme

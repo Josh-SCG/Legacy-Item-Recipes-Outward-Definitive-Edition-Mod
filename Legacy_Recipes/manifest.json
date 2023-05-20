@@ -1,0 +1,11 @@
+{
+    "name": "Legacy_Recipes",
+    "version_number": "1.0.0",
+    "website_url": "",
+	"author": "Josh-SCG",
+"description": "Add recipes for the legacy weapons",
+    "dependencies": [
+		"sinai-dev-SideLoader-3.8.3",
+        "BepInEx-BepInExPack_Outward-5.4.19"
+		]
+}
