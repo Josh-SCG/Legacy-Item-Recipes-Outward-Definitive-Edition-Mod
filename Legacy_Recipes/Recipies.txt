@@ -160,9 +160,9 @@ Militia Sword + Palladium Scrap x3 = Vigilante Sword
 
 Mining Pick + Gold Ingot x3 = Gold Mining Pick
 
-Mushroom Halberd + Leyline Water x2 + Linen Cloth x1 = Spore Halberd
+Mushroom Halberd + Blue Sand x3 = Spore Halberd
 
-Mushroom Shield + Leyline Water x2 + Linen Cloth x1 = Spore Shield
+Mushroom Shield + Blue Sand x3 = Spore Shield
 
 Obsidian Axe + Leyline Water x3 = Meteoric Axe
 
